@@ -10,7 +10,7 @@
 
 <div align="center">
  
- I am a passionate software enthusiast with a strong penchant for exploring and mastering new technologies. With a background in Computer Engineering, I am currently pursuing my Masters in Computer Science. Throughout my academic journey, I have taken on diverse projects in Software Engineering, Data Analytics, Operating Systems, Machine Learning, and Artificial Intelligence, honing my skills and knowledge in these areas. These experiences have shaped me into a versatile and skilled professional, fueled by curiosity for learning new technologies and making a commitment to deliver impactful solutions.
+ I am a passionate software enthusiast with a strong penchant for exploring and mastering new technologies. With a background in Computer Engineering, I recently pursued my Masters in Computer Science and started working as a Software Developer with CityOf.com. Throughout my academic journey, I have taken on diverse projects in Software Engineering, Data Analytics, Operating Systems, Machine Learning, and Artificial Intelligence, honing my skills and knowledge in these areas. These experiences have shaped me into a versatile and skilled professional, fueled by curiosity for learning new technologies and making a commitment to deliver impactful solutions.
 
  </div>
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,php,symfony,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mysql,mongodb,c,java,mysql" /><br>
 </div>
 
